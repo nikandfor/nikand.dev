@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang=en-US>
+<head>
+	<meta name="go-import" content="nikand.dev/go/vanity git https://github.com/nikandfor/vanity-go">
+	<meta http-equiv="Refresh" content="0; url='https://pkg.go.dev/nikand.dev/go/vanity'" />
+</head>
+<body>
+	<a href="https://pkg.go.dev/nikand.dev/go/vanity">nikand.dev/go/vanity</a>
+</body>
+</html>

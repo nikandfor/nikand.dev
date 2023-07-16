@@ -2,9 +2,9 @@
 <html lang=en-US>
 <head>
 	<meta name="go-import" content="nikand.dev/go/errors git https://github.com/nikandfor/errors">
+	<meta http-equiv="Refresh" content="0; url='https://pkg.go.dev/nikand.dev/go/errors'" />
 </head>
 <body>
-	<li><a href=https://pkg.go.dev/nikand.dev/go/errors>nikand.dev/go/errors</a></li>
+	<a href="https://pkg.go.dev/nikand.dev/go/errors">nikand.dev/go/errors</a>
 </body>
 </html>
-

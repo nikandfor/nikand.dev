@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang=en-US>
+<head>
+	<meta name="go-import" content="nikand.dev/go/cli git https://github.com/nikandfor/cli">
+	<meta http-equiv="Refresh" content="0; url='https://pkg.go.dev/nikand.dev/go/cli'" />
+</head>
+<body>
+	<a href="https://pkg.go.dev/nikand.dev/go/cli">nikand.dev/go/cli</a>
+</body>
+</html>
