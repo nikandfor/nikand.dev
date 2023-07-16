@@ -1,11 +1,9 @@
 modules:
-  - nikand.dev/go/vanity
+  - nikand.dev/go/vanity-go
   - nikand.dev/go/errors
   - nikand.dev/go/loc
   - nikand.dev/go/cli
 
 replace:
-  - prefix: nikand.dev/go/vanity
-    repo: https://github.com/nikandfor/vanity-go
   - prefix: nikand.dev/go/
     repo: https://github.com/nikandfor/
