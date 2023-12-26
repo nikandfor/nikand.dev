@@ -1,12 +1,11 @@
 modules:
+  - nikand.dev/go/ascii
   - nikand.dev/go/assert
   - nikand.dev/go/batch
   - nikand.dev/go/cli
   - nikand.dev/go/cover
-  #- nikand.dev/go/errors
   - nikand.dev/go/graceful
   - nikand.dev/go/json
-  #- nikand.dev/go/loc
   - nikand.dev/go/newline
   - nikand.dev/go/rate
   - nikand.dev/go/serve
