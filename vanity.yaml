@@ -7,6 +7,7 @@ modules:
   - nikand.dev/go/escape
   - nikand.dev/go/graceful
   - nikand.dev/go/hacked
+  - nikand.dev/go/heap
   - nikand.dev/go/json
   - nikand.dev/go/newline
   - nikand.dev/go/rate
