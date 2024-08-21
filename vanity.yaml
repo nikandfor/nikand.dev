@@ -2,6 +2,7 @@ modules:
   - nikand.dev/go/ascii
   - nikand.dev/go/assert
   - nikand.dev/go/batch
+  - nikand.dev/go/cbor
   - nikand.dev/go/cli
   - nikand.dev/go/cover
   - nikand.dev/go/escape
