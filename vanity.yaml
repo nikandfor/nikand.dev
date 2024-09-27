@@ -14,6 +14,7 @@ modules:
   - nikand.dev/go/newline
   - nikand.dev/go/rate
   - nikand.dev/go/serve
+  - nikand.dev/go/skip
   - nikand.dev/go/snmp
   - nikand.dev/go/socks5
   - nikand.dev/go/throttle
