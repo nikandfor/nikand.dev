@@ -20,11 +20,11 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Vanity Files
-        uses: nikandfor/vanity-go@0a3da86424a818fc66db99e7c615dc7adb9ad165
+        uses: nikandfor/vanity-go@v0.2.1
         with:
           vanity_file: vanity.yaml
           output_dir: _site
-          generator_version: 1ff9f81
+          generator_version: v0.2.1
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
