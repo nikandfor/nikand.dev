@@ -5,7 +5,7 @@ modules:
   - nikand.dev/go/cbor
   - nikand.dev/go/cli
   - nikand.dev/go/cover
-  - nikand.dev/go/dumproxy
+  - nikand.dev/go/dumpcy
   - nikand.dev/go/escape
   - nikand.dev/go/graceful
   - nikand.dev/go/hacked
