@@ -12,6 +12,7 @@ modules:
   - nikand.dev/go/heap
   - nikand.dev/go/jq
   - nikand.dev/go/json
+  - nikand.dev/go/json2
   - nikand.dev/go/newline
   - nikand.dev/go/rate
   - nikand.dev/go/serve
