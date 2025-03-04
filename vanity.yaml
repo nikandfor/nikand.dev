@@ -14,6 +14,7 @@ modules:
   - nikand.dev/go/json
   - nikand.dev/go/json2
   - nikand.dev/go/newline
+  - nikand.dev/go/quantile
   - nikand.dev/go/rate
   - nikand.dev/go/serve
   - nikand.dev/go/skip
