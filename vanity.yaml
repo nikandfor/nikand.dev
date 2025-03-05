@@ -20,12 +20,12 @@ modules:
   - nikand.dev/go/serve
   - nikand.dev/go/skip
   - nikand.dev/go/snmp
-  - nikand.dev/go/socks5
-  - module: nikand.dev/go/socks5/cmd/socks5
-    repo_root: nikand.dev/go/socks5
+  - nikand.dev/go/socks5:
+    - /
+    - /cmd/socks5
   - nikand.dev/go/throttle
   - nikand.dev/go/vanity-go
 
 replace:
   - prefix: nikand.dev/go/
-    repo: https://github.com/nikandfor/
+    url: https://github.com/nikandfor/

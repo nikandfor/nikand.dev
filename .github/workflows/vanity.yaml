@@ -24,7 +24,7 @@ jobs:
         with:
           vanity_file: vanity.yaml
           output_dir: _site
-          generator_version: v0.3.0
+          generator_version: 560ecdc
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
