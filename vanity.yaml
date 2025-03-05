@@ -14,7 +14,9 @@ modules:
   - nikand.dev/go/json
   - nikand.dev/go/json2
   - nikand.dev/go/newline
-  - nikand.dev/go/prometheus
+  - nikand.dev/go/prometheus:
+    - /
+    - /compatible
   - nikand.dev/go/quantile
   - nikand.dev/go/rate
   - nikand.dev/go/serve
