@@ -27,6 +27,9 @@ modules:
     - /cmd/socks5
   - nikand.dev/go/throttle
   - nikand.dev/go/vanity-go
+  - nikand.dev/go/websocket:
+    - /
+    - /cmd/wscat
 
 replace:
   - prefix: nikand.dev/go/
