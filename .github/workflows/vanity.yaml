@@ -26,6 +26,13 @@ jobs:
           output_dir: _site
           generator_version: v0.4.0
 
+      - name: Copy static files
+        run: |
+          for f in client server; do
+            mkdir -p _site/.well-known/matrix/$f
+            cp .well-known/matrix/$f _site/.well-known/matrix/$f/index.json
+          done
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
