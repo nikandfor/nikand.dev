@@ -21,6 +21,7 @@ modules:
     - /compatible
   - nikand.dev/go/quantile
   - nikand.dev/go/rate
+  - nikand.dev/go/rawtls
   - nikand.dev/go/serve
   - nikand.dev/go/skip
   - nikand.dev/go/snmp
