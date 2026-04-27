@@ -15,6 +15,7 @@ modules:
   - nikand.dev/go/json
   - nikand.dev/go/json2
   - nikand.dev/go/mqtt
+  - nikand.dev/go/mux
   - nikand.dev/go/newline
   - nikand.dev/go/prometheus:
     - /
