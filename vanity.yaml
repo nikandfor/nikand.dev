@@ -35,6 +35,10 @@ modules:
     - /
     - /cmd/wscat
 
+  - nikand.dev/go/schema:
+    - /
+    url: https://github.com/nikandagent/schema
+
 replace:
   - prefix: nikand.dev/go/
     url: https://github.com/nikandfor/
